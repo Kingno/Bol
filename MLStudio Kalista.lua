@@ -1,8 +1,4 @@
-  
-	
-
-     
-    if myHero.charName ~= "Kalista" then return end
+ if myHero.charName ~= "Kalista" then return end
      
     if VIP_USER then
             require "VPrediction"
